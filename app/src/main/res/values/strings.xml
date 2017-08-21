@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Math Game Chapter 2</string>
+    <string name="Play">Play</string>
+    <string name="Text1">Text1</string>
+    <string name="High_Scores">High Scores</string>
+    <string name="Quit">Quit</string>
+    <string name="Quit1">Quit!</string>
+</resources>
